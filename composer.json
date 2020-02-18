@@ -1,0 +1,17 @@
+{
+    "name": "xzusoft/aicode",
+    "type": "MIT",
+    "require": {
+        "nette/php-generator": "^3.3@dev",
+        "easyswoole/orm": "dev-master",
+        "easyswoole/easyswoole": "3.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xzusoft",
+            "email": "zhoujing@leubao.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
